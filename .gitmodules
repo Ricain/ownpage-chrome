@@ -1,0 +1,3 @@
+[submodule "ownpage"]
+	path = ownpage
+	url = https://github.com/Ricain/ownpage
