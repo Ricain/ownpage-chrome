@@ -2,8 +2,8 @@
 	"manifest_version": 2,
 
 	"name": "Ownpage",
-	"description": "Google chrome extension for Ownpage.\n\nOwnpage: http://ricain.github.io/ownpage/\nExtenstion source: https://github.com/ricain/ownpage-chrome",
-	"version": "1.0",
+	"description": "Google chrome extension for Ownpage.",
+	"version": "1.1",
 	"permissions": [],
 	"chrome_url_overrides" : {
 		"newtab": "newtab.html"
