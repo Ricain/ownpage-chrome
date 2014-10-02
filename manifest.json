@@ -2,7 +2,7 @@
 	"manifest_version": 2,
 
 	"name": "Ownpage",
-	"description": "Google chrome extension for Ownpage.",
+	"description": "Simple, stylish, and responsive, Ownpage is an alternative to your navigator new tab page.",
 	"version": "1.1",
 	"permissions": [],
 	"chrome_url_overrides" : {
